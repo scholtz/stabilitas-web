@@ -9,7 +9,7 @@
                         </div>
                         <h1 class="error-404-title font-weight--light text-white">Oops! Page not found!</h1>
                         <div class="error-buttons section-space--mt_50">
-                            <router-link class="ht-btn ht-btn-md" to="/branding">
+                            <router-link class="ht-btn ht-btn-md" to="/">
                                  <span class="button-icon mr-2">
                                     <i class="fa fa-home"></i>
                                 </span>
