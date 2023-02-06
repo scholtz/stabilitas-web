@@ -28,7 +28,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#review" @click="menuCollapseOnLinkClick">
-                                <span>MVP on testnet</span>
+                                <span>PoC on testnet</span>
                             </a>
                         </li>
                         <li class="nav-item">

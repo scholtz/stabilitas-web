@@ -1,6 +1,6 @@
 <template>
-    <div class="ebook-feature section-space--pt_120 section-space--pb_60" id="faq">
-        <div class="container">
+    <div class="ebook-feature section-space--pt_120 section-space--pb_60  "  id="faq">
+        <div class="container section-space--pt_120">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-wrapper text-center section-space--mb_60">
