@@ -27,7 +27,7 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#review" @click="menuCollapseOnLinkClick">
+                            <a class="nav-link" href="#faq" @click="menuCollapseOnLinkClick">
                                 <span>PoC on testnet</span>
                             </a>
                         </li>
