@@ -52,6 +52,7 @@
                                 </ul>
                             </div>
                         </div>
+                        <!--
                         <div class="col-lg-12">
                             <div class="app-landing_footer-share text-center">
                                 <ul class="list ht-social-networks large-icon">
@@ -73,6 +74,7 @@
                                 </ul>
                             </div>
                         </div>
+                        -->
                     </div>
                 </div>
             </div>

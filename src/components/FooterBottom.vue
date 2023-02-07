@@ -2,6 +2,7 @@
     <div class="footer-area-wrapper">
         <div class="footer-copyright-area ebook-footer section-space--pb_120">
             <div class="container">
+                <!--
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="ebook-social-group__list mb-20 text-center">
@@ -35,6 +36,7 @@
                         </div>
                     </div>
                 </div>
+                -->
                 <div class="row aling-items-center">
                     <div class="col-md-12">
                         <div class="horizontal-list text-center">

@@ -22,6 +22,7 @@
         </div>
         <div class="footer-copyright-area section-space--pt_60 section-space--pb_120">
             <div class="container">
+                <!--
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="social-group__list mb-20 text-center">
@@ -45,6 +46,7 @@
                         </div>
                     </div>
                 </div>
+                -->
                 <div class="row aling-items-center">
                     <div class="col-md-12">
                         <div class="horizontal-list text-center">

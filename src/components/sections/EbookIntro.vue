@@ -13,7 +13,7 @@
                 <div class="col-lg-6">
                     <div class="section-title-wrapper text-center section-space--mb_60">
                         <YouTube 
-                            src="https://www.youtube.com/watch?v=cSJjmnzvvLY" 
+                            src="https://www.youtube.com/watch?v=uuWpafU9_JY" 
                             @ready="onReady"
                             ref="youtube" />
                     </div>
