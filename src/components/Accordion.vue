@@ -84,6 +84,12 @@ oracleAMMVWAP1H=194448614
 reserveAppId=194449294
 </pre>
                         <p>We have also deployed k8s ECB price feed oracle. Example transaction: <a href="https://testnet.algoexplorer.io/tx/T5GWE3OUWCLXZTQEPRYQRR33OWVV7YSMZKGODLACA6RHKHCNKROQ" target="_blank">https://testnet.algoexplorer.io/tx/T5GWE3OUWCLXZTQEPRYQRR33OWVV7YSMZKGODLACA6RHKHCNKROQ</a> </p>
+                        
+                        <p>Stabilitas repos:</p>
+                        <ul>
+                            <li><a href="https://github.com/scholtz/stabilitas-apps" target="_blank">https://github.com/scholtz/stabilitas-apps</a> - Repos with smart contracts, test cases - Typescript,Pyteal</li>
+                            <li><a href="https://github.com/scholtz/stabilitas-web" target="_blank">https://github.com/scholtz/stabilitas-web</a> - Vue.Js FE presentation app</li>
+                        </ul>
                     </div>
                 </div>
             </div>
