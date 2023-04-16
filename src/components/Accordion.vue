@@ -68,6 +68,27 @@
                 </div>
             </div>
             <div class="accordion-item">
+                <h2 class="accordion-header" id="headingAce">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAce" aria-expanded="false" aria-controls="collapseAce">
+                    What has been built at Mega Ace Hackathon ?
+                </button>
+                </h2>
+                <div id="collapseAce" class="accordion-collapse collapse" aria-labelledby="headingAce" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p>For Mega Ace Hackathon we have deployed the application to testnet and built docker image for oracle usage. We have also created the AMM time weighted VWAP oracle price feed for national currencies.</p>
+                        <pre>tokensAppId=194446915
+assetOracleBase=37074699
+oracleECBAppId=194448390
+oracleAMMVWAP1W=194448649
+oracleAMMVWAP1H=194448614
+reserveAppId=194449294
+</pre>
+                        <p>We have also deployed k8s ECB price feed oracle. Example transaction: <a href="https://testnet.algoexplorer.io/tx/T5GWE3OUWCLXZTQEPRYQRR33OWVV7YSMZKGODLACA6RHKHCNKROQ" target="_blank">https://testnet.algoexplorer.io/tx/T5GWE3OUWCLXZTQEPRYQRR33OWVV7YSMZKGODLACA6RHKHCNKROQ</a> </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="accordion-item">
                 <h2 class="accordion-header" id="headingFour">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
                     Why did you start this project?

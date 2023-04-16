@@ -18,7 +18,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#intro" @click="menuCollapseOnLinkClick">
-                                <span>Greenhouse Hack #3</span>
+                                <span>Mega Ace Hackathon</span>
                             </a>
                         </li>
                         <li class="nav-item">
@@ -28,7 +28,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#faq" @click="menuCollapseOnLinkClick">
-                                <span>PoC on testnet</span>
+                                <span>MVP on testnet</span>
                             </a>
                         </li>
                         <li class="nav-item">

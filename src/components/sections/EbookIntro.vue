@@ -20,21 +20,19 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="section-title-wrapper text-center section-space--mb_60">
-                        <h3>Greenhouse hack #3</h3>
+                        <h3>Mega Ace Hackathon</h3>
                         <p>
-                            Project Stabilitas has been created @ Greenhouse hack #3
+                            Project Stabilitas has been <br/>deployed to testnet @ Mega Ace Hackathon
                         </p>
-                        <p><a href="https://gitcoin.co/issue/29663" target="_blank">https://gitcoin.co/hackathon/greenhouse3/</a></p>
-                        <p>During the hackathon: </p>
-                        <div class="pricing-table__inner">
-                        <div class="pricing-table__body">
-                            <ul class="pricing-table__list text-left"><li>the project has been thought through, </li><li>the <b><a href="/white-paper-stabilitas-20230206.pdf" target="_blank">Whitepaper</a></b> has been written, </li><li>and PoC has been deployed to the algorand testnet.</li>
-                                <li>Two open source github repos has been created:</li>
-                                <li><a href="https://github.com/scholtz/stabilitas-apps" target="_blank">https://github.com/scholtz/stabilitas-apps</a></li>
-                                <li><a href="https://github.com/scholtz/stabilitas-web" target="_blank">https://github.com/scholtz/stabilitas-web</a></li>
-                            </ul>
-                        </div>
-                    </div></div>
+                        <p><a href="https://mega-ace.org/hackathon" target="_blank">https://mega-ace.org/hackathon</a></p>
+                        <pre>tokensAppId=194446915
+assetOracleBase=37074699
+oracleECBAppId=194448390
+oracleAMMVWAP1W=194448649
+oracleAMMVWAP1H=194448614
+reserveAppId=194449294
+</pre>
+                    </div>
                 </div>
             </div>
         </div>
